@@ -20,6 +20,8 @@ python solver.py -i tests/mir.txt
 * **Henrique Ferreira** - [GitHub](https://github.com/henriquebferreira)
 * **Manuel Rosa** - [GitHub](https://github.com/ManuelDCR)
 
+*Developed in 2017, Instituto Superior Técnico - Universidade de Lisboa*
+
 ## License
 
-This project is licensed under the BSD 3-Clause "New" or "Revised" License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the BSD 3-Clause "New" or "Revised" License - see the [LICENSE](LICENSE) file for details
